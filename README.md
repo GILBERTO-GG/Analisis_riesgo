@@ -54,12 +54,10 @@ Se generaron visualizaciones en Looker Studio para presentar un tablero interact
    - **Línea punteada:** predicciones para 2022.
    - **Bandas grises:** intervalos de confianza.
 
-![Gráfico de Series de Tiempo](ruta/a/imagen.png)
 
 ## Clasificación de Estados por Peligrosidad (Clustering)
 **Objetivo:** Clasificar los estados según su peligrosidad en 2021, aplicando algoritmos de clustering como **K-Means** y utilizando variables como el número total de delitos por año, tipo de delito y población.
 
-![Mapa de Clusters](ruta/a/imagen.png)
 
 ## Conclusiones y Recomendaciones
 
@@ -101,4 +99,4 @@ Se generaron visualizaciones en Looker Studio para presentar un tablero interact
 
 > *Este proyecto demuestra cómo el análisis de datos puede ayudar a gestionar riesgos y a desarrollar estrategias de precios en seguros.*
 
-[Link al tablero de Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
+(ver archivos adjuntos con más detalle).
