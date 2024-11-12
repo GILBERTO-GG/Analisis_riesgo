@@ -39,6 +39,8 @@ Se estableció una conexión desde Python a la base de datos, lo cual permitió 
 ## Visualizaciones en Looker Studio
 Se generaron visualizaciones en Looker Studio para presentar un tablero interactivo con los hallazgos del análisis, facilitando la toma de decisiones basada en datos.
 
+[Link al tablero de Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
+
 ## Análisis de Series de Tiempo
 **Objetivo:** Identificar patrones y tendencias en los delitos desde 2015 hasta 2021 y realizar predicciones para el año 2022.
 
