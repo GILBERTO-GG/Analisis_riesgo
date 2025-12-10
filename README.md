@@ -49,6 +49,21 @@ Se generaron visualizaciones en Looker Studio para presentar un tablero interact
 ### Año 2016
 ![Fotos del año 2016](images/fotos2016.jpg)
 
+### Año 2017
+![Fotos del año 2017](images/fotos2017.jpg)
+
+### Año 2018
+![Fotos del año 2018](images/fotos2018.jpg)
+
+### Año 2019
+![Fotos del año 2019](images/fotos2019.jpg)
+
+### Año 2020
+![Fotos del año 2020](images/fotos2020.jpg)
+
+### Año 2021
+![Fotos del año 2021](images/fotos2021.jpg)
+
 
 ## Análisis de Series de Tiempo
 **Objetivo:** Identificar patrones y tendencias en los delitos desde 2015 hasta 2021 y realizar predicciones para el año 2022.
