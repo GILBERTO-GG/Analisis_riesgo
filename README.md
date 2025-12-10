@@ -44,6 +44,12 @@ Se generaron visualizaciones en Looker Studio para presentar un tablero interact
 [Link al tablero de Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
 
 ![Año 2015](./images/fotos 2015.jpg)
+
+
+
+
+
+
 ![Preview Dashboard](https://raw.githubusercontent.com/GILBERTO-GG/Analisis_riesgo/blob/main/images/fotos%202015.jpg)
 
 
