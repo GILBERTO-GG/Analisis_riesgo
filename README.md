@@ -43,6 +43,9 @@ Se generaron visualizaciones en Looker Studio para presentar un tablero interact
 
 [Link al tablero de Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
 
+![Año 2015](./images/fotos 2015.jpg)
+
+
 ## Análisis de Series de Tiempo
 **Objetivo:** Identificar patrones y tendencias en los delitos desde 2015 hasta 2021 y realizar predicciones para el año 2022.
 
