@@ -43,14 +43,11 @@ Se generaron visualizaciones en Looker Studio para presentar un tablero interact
 
 [Link al tablero de Looker Studio](https://lookerstudio.google.com/u/0/navigation/reporting)
 
-![Año 2015](./images/fotos 2015.jpg)
+### Año 2015
+![Fotos del año 2015](images/fotos2015.jpg)
 
-
-
-
-
-
-![Preview Dashboard](https://raw.githubusercontent.com/GILBERTO-GG/Analisis_riesgo/blob/main/images/fotos%202015.jpg)
+### Año 2016
+![Fotos del año 2016](images/fotos2016.jpg)
 
 
 ## Análisis de Series de Tiempo
